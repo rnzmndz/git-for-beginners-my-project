@@ -1,5 +1,5 @@
 Welcome to MyProject!
 
-Author: Renzo
+Author: Renzo Mendoza
 
 Twitter: @Renzomndoza
